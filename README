@@ -2,3 +2,7 @@ JavaCompactor
 
 A utility written in python that takes Java file(s) and compacts into one file.
 
+Usage:
+
+	python jc.py file1 file2 ...
+
