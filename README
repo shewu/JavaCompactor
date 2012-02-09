@@ -6,3 +6,5 @@ Usage:
 
 	python jc.py file1 file2 ...
 
+This repository comes with two sample files, Test.java and Point.java. Try JC on them!
+
